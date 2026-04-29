@@ -1,0 +1,7 @@
+build/*.asm
+build/*.ihx
+build/*.lst
+build/*.map
+build/*.noi
+build/*.o
+build/*.sym
