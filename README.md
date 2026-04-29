@@ -4,7 +4,13 @@
 
 Try it [online](https://tonywang.itch.io/gb-speech) (itch.io)?
 
-This project is a realtime speech synthesizer that outputs gibberish voice. It is used as a sub module (WIP) in a runtime kernel of the [GB BASIC](https://github.com/paladin-t/gbb) project.
+<p align="center">
+  <a href="https://www.youtube.com/shorts/t7VPJj0dZ4M">
+    <img src="https://img.youtube.com/vi/t7VPJj0dZ4M/maxresdefault.jpg" width="256px" />
+  </a>
+</p>
+
+This project is a Game Boy realtime speech synthesizer that outputs gibberish voice. It is used as a sub module (WIP) in a runtime kernel of the [GB BASIC](https://github.com/paladin-t/gbb) project.
 
 It provides a stylized speech synthesis solution with decent realtime efficiency rather than realistic human voice synthesis. The idea is similar to the mumbled speech of characters in _Tomodachi Life_, _Animal Crossing_, and many other games. You can use it to give every line of conversation in your Game Boy game a unique auditory experience. Using this approach offers the following benefits:
 
