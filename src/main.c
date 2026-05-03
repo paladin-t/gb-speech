@@ -132,6 +132,6 @@ void main(void) {
                 busy = TRUE;
         }
 
-        wait_vbl_done();
+        vsync();
     }
 }
